@@ -142,5 +142,13 @@
     "githubUrl": "https://github.com/JamesDAdams/openfox-multi-rep",
     "author": "James Adams",
     "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#3b82f6\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"6\" y1=\"3\" x2=\"6\" y2=\"15\"/><circle cx=\"18\" cy=\"6\" r=\"3\"/><circle cx=\"6\" cy=\"18\" r=\"3\"/><path d=\"M18 9a9 9 0 0 1-9 9\"/></svg>"
+  },
+  {
+    "name": "openfox-telegram",
+    "displayName": "Telegram",
+    "description": "Forward OpenFox pending questions and path confirmations to Telegram, and answer them with inline buttons.",
+    "githubUrl": "https://github.com/yoan31/openfox-telegram",
+    "author": "Yoan NASSET",
+    "icon": "https://telegram.org/img/t_logo.svg"
   }
 ]
